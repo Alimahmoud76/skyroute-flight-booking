@@ -26,4 +26,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Alimahmoud76/skyroute-flight-booking.git](https://github.com/Alimahmoud76/skyroute-flight-booking.git)
+   git clone https://github.com/Alimahmoud76/skyroute-flight-booking.git
